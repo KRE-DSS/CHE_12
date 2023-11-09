@@ -1,18 +1,5 @@
 # Überschrift 1
 
-                                  diagram title
-1.5 |           *
-    |                                 (* stars)
-  y |        *      *
-  - |      *          *
-  a |     *             *       *
-  x |    *                 *
-  i |   *
-  s |  *
-    | *                              *        *
-  0 +------------------------------------------
-     2.0              x-axis                100
-
 - [[ ]] Empty means not checked
 - [[X]] Uppercase `X` means checked ...
 - [[x]] ... and lowercase `x` too ...
