@@ -15,16 +15,11 @@
 
 > Test
 > 
-> 1
-> 
-> 2
-> 
-> 3
+><details>
+>
+><summary>**Zusammenfassung**</summary>
+>
+>Das ist ein Text
+>
+></details>
 
-<details>
-
-<summary>**Zusammenfassung**</summary>
-
-Das ist ein Text
-
-</details>
