@@ -21,4 +21,10 @@
 > 
 > 3
 
+<details>
 
+<summary>**Zusammenfassung**</summary>
+
+Das ist ein Text
+
+</details>
