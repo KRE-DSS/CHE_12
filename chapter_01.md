@@ -1,25 +1,15 @@
-# Säure-Base-Titration und Maßanalyse
+# Überschrift
 
-**🧪 Versuchsaufbau**
+<!-- data-type="line" -->
+| x  | y   |
+| :--------- | :--------- |
+| 0          | <script input default="0">@input</script>  |
+| 0.5        | <script input default="0">@input</script>  |
+| 1        | <script input default="0">@input</script>  |
+| 1.5        | <script input default="0">@input</script>  |
 
-- [ ] Mobile-CASSY-2
-- [ ] Vollpipette
-- [ ] Bürette
-
-**Quizfragen**
-
-- [[ ]] Empty means not checked
-- [[X]] Uppercase `X` means checked ...
-- [[x]] ... and lowercase `x` too ...
-- [[ ]] **as defined in the first line** ...
-
-> Test
-> 
-><details>
->
-><summary>**Zusammenfassung**</summary>
->
->Das ist ein Text
->
-></details>
-
+<!-- calc: <script input default="@0">@input</script>
+-->
+| Header 1   | Header 2   |
+| :--------- | :--------- |
+| 1     | @calc(1)     |
