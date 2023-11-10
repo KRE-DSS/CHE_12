@@ -8,8 +8,7 @@
 | 1        | <script input default="0">@input</script>  |
 | 1.5        | <script input default="0">@input</script>  |
 
-<!-- calc: <script input default="@0">@input</script>
--->
+<!-- calc: <script input default="@0">@input</script> -->
 
 <!-- Test -->
 
