@@ -15,3 +15,22 @@
 | Header 1   | Header 2   |
 | :--------- | :--------- |
 | 1     | @calc(1)     |
+
+
+<!--
+calc: <script input default="0">@input</script>
+-->
+
+| Header 1   | Header 2   |
+| :--------- | :--------- |
+| 1     | @calc(1)     |
+
+# Überschrift
+<!-- 
+calc: <script input default="?">@input</script>
+-->
+<!-- data-type="line" -->
+| Header 1 | Header 2 |
+| :--- | :--- |
+| 1     | @calc()     |
+| 2     | @calc()     |__
