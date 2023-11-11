@@ -30,7 +30,7 @@ This work is licensed under a
 
 ## Vorbereitung
 
-    {{1}}
+    {{1-2}}
 **********
 Materialien
 ============
@@ -51,7 +51,7 @@ Kontrolliere, ob du alle benötigten Materialien auf deinem Tisch hast. Kreuze a
 -[ ] [Pipettierhilfe](https://de.wikipedia.org/wiki/Pipettierhilfe#/media/Datei:Pipettierhilfen.jpg)
 **********
 
-    {{2}}
+    {{2-3}}
 **********
 Chemikalien
 =============
