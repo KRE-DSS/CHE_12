@@ -11,6 +11,8 @@ narrator: Deutsch Female
 
 classroom: disable
 
+mode: Presentation
+
 comment:  Try to write a short comment about
           your course, multiline is also okay.
 
@@ -214,7 +216,7 @@ $$
 c(H_3CCOOH) \cdot V(H_3CCOOH) = c(NaOH) \cdot V(NaOH)
 $$
 
-Nun können wir nach der Konzentration der Essigsäure auflösen:
+Nun kannst du nach der Konzentration der Essigsäure auflösen:
 
 $$
 \tag{4}
@@ -223,13 +225,33 @@ $$
 
 ***
 *********
+
+    {{4-5}}
+*********
+Nachdem du weißt, wie du die Stoffmengenkonezntration der Essigsäure bestimmen kannst, bearbeite folgende Aufgaben in deinem Notizbuch:
+
+-[ ] **Berechne** die Stoffmengenkonzentration der Essigsäure
+-[ ] **Berechne** die Massenkonzentration der Essigsäure im Speiseessig
+-[ ] **Vergleiche** die Titrationskurve mit der Titrationskurve einer starken Säure
+-[ ] **Erläutere** die Besonderheiten der Titrationskurve mit den Vorgängen auf der Teilchenebene
+
+> 💡 Du kannst deine Berechnnungen auf der nächsten Folie überprüfen.
+
+> 💡 Zur Erläuterung der Kurve kannst du dir folgendes Video ansehen:
+> !?[Verschiedene Titrationskurven](https://youtu.be/zYD6TNG36_k?feature=shared)
+*********
+
 ## Rechner
 <!--
 calc1: <script format="number" step="0.01" output="c_HAc_ver">@input(`V_OH`)*@input(`c_OH`)/@input(`V_HAc`)</script>
 calc2: <script format="number" output="c_HAc_unv" default="1">@input(`c_HAc_ver`)*@input(`VH_Wasser`)/@input(`VH_Essig`)</script>
-calc3: <script format="number">@input(`c_HAc_unv`)*@input(`M_HAc`)</script>
+calc3: <script format="number" output="m_HAc">@input(`c_HAc_unv`)*@input(`M_HAc`)</script>
+calc4: <script format="number" output="w_HAc">@input(`m_HAc`)/1000</script>
+calc5: <script format="number">@input(`w_HAc`)*100</script>
 -->
 
+    {{1-2}}
+*********
 Berechnung der Stoffmengenkonzentration der Essigsäure
 ======================================================
 
@@ -246,11 +268,23 @@ $ c(H_3CCOOH) = $ @calc1 mol/L
 Da der Essig vor der Titration im Verhältnis <script input="number" output="VH_Essig" default="1">@input</script> : <script input="number" output="VH_Wasser" default="10">@input</script> verdünnt wurde ergibt sich:
 
 $ c(H_3CCOOH)_{unverdünnt} = $ @calc2 mol/L
+*********
 
+    {{2-3}}
+*********
 Berechnung der Massenkonzentration der Essigsäure
 =================================================
+Bei einer 1-L-Flasche Essig ist/sind @calc2 mol Essigsäure vorhanden.
+
 Molare Masse der Essisäure: <script input="number" output="M_HAc" default="1">@input</script> g/mol
 
 $ m(H_3CCOOH) = n(H_3CCOOH) \cdot M(H_3CCOOH)$
 
 $ m(H_3CCOOH) = $ @calc3 g
+
+Damit ergibt sich 
+
+$ \omega(H_3CCOOH) = \frac{m(H_3CCOOH)}{V(Essig)} $
+
+$ \omega(H_3CCOOH) = $ @calc4 = @calc5 %
+*********
