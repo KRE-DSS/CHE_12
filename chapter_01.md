@@ -3,7 +3,7 @@ author:   KRE-DSS
 
 email:    
 
-version:  0.0.1
+version:  1.0.0
 
 language: de
 
@@ -47,8 +47,11 @@ Kontrolliere, ob du alle benötigten Materialien auf deinem Tisch hast. Kreuze a
 -[ ] [Muffe 2x](https://de.wikipedia.org/wiki/Doppelmuffe#/media/Datei:Stainless_steel_laboratory_bossheads_13mm.jpg)
 -[ ] Klemme 2x
 -[ ] Becherglas 50 ml
--[ ] [Vollpipette 10 ml 2x](https://de.wikipedia.org/wiki/Pipette#/media/Datei:Pipette-LF.jpg)
+-[ ] Bürette
+-[ ] Trichter zum Auffüllen der Bürette
+-[ ] [Vollpipette 10 ml](https://de.wikipedia.org/wiki/Pipette#/media/Datei:Pipette-LF.jpg)
 -[ ] [Pipettierhilfe](https://de.wikipedia.org/wiki/Pipettierhilfe#/media/Datei:Pipettierhilfen.jpg)
+
 **********
 
     {{2-3}}
@@ -56,7 +59,9 @@ Kontrolliere, ob du alle benötigten Materialien auf deinem Tisch hast. Kreuze a
 Chemikalien
 =============
 
-+ `Essigsäure` und `Natronlauge` (c = 0,1 mol/L) werden auf dem Lehrerwagen bereitgestellt
+Wichtige Informationen:
+
++ `Essig` (Verdünnung 1:10) und `Natronlauge` (c = 0,1 mol/L) werden zentral auf dem Lehrerwagen bereitgestellt
 + Bring die Chemikalienflaschen zum Arbeiten zu deinem Platz
 + Verschließe die Flaschen wieder mit dem Deckel und stelle sie zurück
 
@@ -70,15 +75,17 @@ Baue den Versuch folgendermaßen auf:
 
 ![Titration Essig mit Natronlauge](/media/Titration-NaOH-vinager.svg)
 
- <a href="https://commons.wikimedia.org/wiki/User:Muskid">Muskid</a>, <a href="https://commons.wikimedia.org/wiki/File:Titration-NaOH-HCl.svg">Titration-NaOH-HCl</a>, "Sonde" durch "pH-Elektrode" und "Salzsäure" durch "Essig" ersetzt von KRE, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a> 
+*Abbildung: Titration von Essig mit Natronlauge* [^1]
 
- -[ ] Fülle die Bürette mit Natronlauge bis zur 0-mL-Marke
+ -[ ] Fülle die Bürette mit Natronlauge bis zur 0-mL-Marke (**~~NICHT~~** über Augenhöhe arbeiten!)
  -[ ] Lasse die Natronlauge in der Bürette in ein Abfall-Becherglas bis zur 4-mL-Marke ab. Entsorge die Natronlauge im Abguss.
  -[ ] Gib in das 50-mL-Becherglas 10 mL Essiglösung und den Magnetrührstab
  -[ ] Schalte den Magnetrührer ein und stelle eine langsame Geschwindigkeit ein
  -[ ] Hänge die pH-Elektrode so in die Flüssigkeit, dass sie den Magnetrührstab nicht berührt
 
 **********
+
+[^1]: <a href="https://commons.wikimedia.org/wiki/User:Muskid">Muskid</a>, <a href="https://commons.wikimedia.org/wiki/File:Titration-NaOH-HCl.svg">Titration-NaOH-HCl</a>, "Sonde" durch "pH-Elektrode" und "Salzsäure" durch "Essig" ersetzt von KRE, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a> 
 
 ## Durchführung und Beobachtungen
 <!--
@@ -135,13 +142,115 @@ calc: <script input="number" default="@0">@input</script>
 | 19.5 | @calc(?)  |
 | 20.0 | @calc(?)  |
 
-## Calculator
+## Auswertung
 <!--
-i: <script input="number">let i = @input</script>
--->
-<script input="number" value="1" min="0" max="1000000">
-let i = @input // direct usage as a number
-let k = @input
 
-"Square of " + i + " = " + i * k
-</script>
+@runFormula: <script>console.html(`<lia-formula formula="@'input" displayMode="true"></lia-formula>`);"LIA: stop"</script>
+
+-->
+
+    {{1-2}}
+*********
+**Formuliere** die Reaktionsgleichung für die Reaktion von Essigsäure mit Natronlauge
+
++ Klicke auf das `</>`-Symbol, um eine Vorschau der Formel zu erhalten
++ Passe die Formel im Editor an
++ Mit klick auf das `</>`-Symbol kannst du die Vorschau aktualisieren
++ Wichtige Syntax:
+
+  - Gleichgewichtspfeil: $ \rightleftharpoons $ mit `\rightleftharpoons`
+  - Hochgestellt: $ A^{b} $ mit `A^{b}`
+  - Tiefgestellt: $ A_{b} $ mit `A_{b}`
+
+> 💡 Du kannst die Formelschreibweise per Copy & Paste in OneNote übernehmen. Die Syntax ist dieselbe.
+
+<!-- class="notranslate"-->
+```latex
+A + B \rightarrow AB
+```
+@runFormula
+*********
+
+    {{2-3}}
+*********
+**Bestimme** das Stoffmengenverhältnis von Essigsäure und Natronlauge:
+
+-[( )] $ \frac{n(CH_3COOH)}{n(NaOH)} = \frac{1}{2} $
+-[( )] $ \frac{n(CH_3COOH)}{n(NaOH)} = \frac{2}{2} $
+-[(x)] $ \frac{n(CH_3COOH)}{n(NaOH)} = \frac{1}{1} $
+-[( )] $ \frac{n(CH_3COOH)}{n(NaOH)} = \frac{2}{1} $
+-[[?]] 💡 Betrachte nochmal die Reaktionsgleichung
+-[[?]] 💡 Achte auf die Koeffizienten von Essigsäure und Natronlauge
+****
+Bei chemischen Reaktionen reagieren Teilchen immer in ganzzahligen Verhältnissen miteinander. Aufgrund der Definition des Mols reagieren auch die Stoffe in denselben Stoffmengenverhältnissen. Daher kann man ganz einfach die Koeffizienten der beiden Stoffe in das Verhältnis setzen.
+***
+*********
+
+    {{3-4}}
+*********
+Am Äquivalenzpunkt der Titration sind die Stoffmengen von Säure und Base gleich groß. Mit dem Stoffmengenverhältnis aus der Reaktionsgleichung ergibt sich:
+$$
+\tag{1}
+\frac{n(CH_3COOH)}{n(NaOH)} = \frac{1}{1}
+$$
+
+$$
+\tag{2}
+n(CH_3COOH) = \frac{1}{1} \cdot n(NAOH)
+$$
+
+**Wähle** eine geeignete Formel **aus**, die in Gleichung (2) eingesetzt werden kann, so dass man die Konzentration der Essigsäure berechnen kann:
+
+-[( )] $ n = \frac{m}{M} $
+-[(x)] $ c = \frac{n}{V} $
+-[( )] $ n = \frac{c}{V} $
+-[( )] $ n = \frac{V}{V_m} $
+-[[?]] 💡 "**K**onzentration **n**icht **V**ergessen"
+***
+Indem wir die Stoffmenge $ n $ durch das Produkt von Konzentration und Volumen $ c \cdot V $ ausdrücken erhalten wir:
+
+$$
+\tag{3}
+c(H_3CCOOH) \cdot V(H_3CCOOH) = c(NaOH) \cdot V(NaOH)
+$$
+
+Nun können wir nach der Konzentration der Essigsäure auflösen:
+
+$$
+\tag{4}
+c(H_3CCOOH) = \frac{c(NaOH) \cdot V(NaOH)}{V(H_3CCOOH)} 
+$$
+
+***
+*********
+## Rechner
+<!--
+calc1: <script format="number" step="0.01" output="c_HAc_ver">@input(`V_OH`)*@input(`c_OH`)/@input(`V_HAc`)</script>
+calc2: <script format="number" output="c_HAc_unv" default="1">@input(`c_HAc_ver`)*@input(`VH_Wasser`)/@input(`VH_Essig`)</script>
+calc3: <script format="number">@input(`c_HAc_unv`)*@input(`M_HAc`)</script>
+-->
+
+Berechnung der Stoffmengenkonzentration der Essigsäure
+======================================================
+
+Vorgelegtes Volumen an Essig: <script input="number" output="V_HAc" default="1">@input</script> mL
+
+Verbrauchtes Volumen von Natronlauge bis zum ÄP: <script input="number" output="V_OH" default="1">@input</script> mL
+
+Konzentration der Natronlauge: <script input="number" output="c_OH" default="1">@input</script> mol/L
+
+$ c(H_3CCOOH) = \frac{c(NaOH) \cdot V(NaoH)}{V(H_3CCOOH)} $
+
+$ c(H_3CCOOH) = $ @calc1 mol/L
+
+Da der Essig vor der Titration im Verhältnis <script input="number" output="VH_Essig" default="1">@input</script> : <script input="number" output="VH_Wasser" default="10">@input</script> verdünnt wurde ergibt sich:
+
+$ c(H_3CCOOH)_{unverdünnt} = $ @calc2 mol/L
+
+Berechnung der Massenkonzentration der Essigsäure
+=================================================
+Molare Masse der Essisäure: <script input="number" output="M_HAc" default="1">@input</script> g/mol
+
+$ m(H_3CCOOH) = n(H_3CCOOH) \cdot M(H_3CCOOH)$
+
+$ m(H_3CCOOH) = $ @calc3 g
