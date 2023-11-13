@@ -46,13 +46,15 @@ Kontrolliere, ob du alle benötigten Materialien auf deinem Tisch hast. Kreuze a
 -[ ] Magnetrührer
 -[ ] Magnetrührstab
 -[ ] Stativ
--[ ] [Muffe 2x](https://de.wikipedia.org/wiki/Doppelmuffe#/media/Datei:Stainless_steel_laboratory_bossheads_13mm.jpg)
--[ ] Klemme 2x
+-[ ] [Muffe](https://de.wikipedia.org/wiki/Doppelmuffe#/media/Datei:Stainless_steel_laboratory_bossheads_13mm.jpg)
+-[ ] Klemme
 -[ ] Becherglas 50 ml
+-[ ] Becherglas (für Abfall)
 -[ ] Bürette
 -[ ] Trichter zum Auffüllen der Bürette
 -[ ] [Vollpipette 10 ml](https://de.wikipedia.org/wiki/Pipette#/media/Datei:Pipette-LF.jpg)
 -[ ] [Pipettierhilfe](https://de.wikipedia.org/wiki/Pipettierhilfe#/media/Datei:Pipettierhilfen.jpg)
+-[ ] Spritzflasche mit dest. Wasser
 
 **********
 
@@ -80,9 +82,10 @@ Baue den Versuch folgendermaßen auf:
 *Abbildung: Titration von Essig mit Natronlauge* [^1]
 
  -[ ] Fülle die Bürette mit Natronlauge bis zur 0-mL-Marke (**~~NICHT~~** über Augenhöhe arbeiten!)
- -[ ] Lasse die Natronlauge in der Bürette in ein Abfall-Becherglas bis zur 4-mL-Marke ab. Entsorge die Natronlauge im Abguss.
+ -[ ] Lasse die Natronlauge in der Bürette in ein Abfall-Becherglas bis zur 4-mL-Marke ab.
  -[ ] Gib in das 50-mL-Becherglas 10 mL Essiglösung und den Magnetrührstab
  -[ ] Schalte den Magnetrührer ein und stelle eine langsame Geschwindigkeit ein
+ -[ ] Schraube das Aufbewahrungsgefäß von der pH-Elektrode und spüle diese mit dest. Wasser (--> in das Abfall-Becherglas)
  -[ ] Hänge die pH-Elektrode so in die Flüssigkeit, dass sie den Magnetrührstab nicht berührt
 
 **********
