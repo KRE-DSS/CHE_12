@@ -13,8 +13,7 @@ classroom: disable
 
 mode: Presentation
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  Titration (Chemie 12)
 
 link:     
 
