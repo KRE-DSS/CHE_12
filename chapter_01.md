@@ -39,10 +39,10 @@ Materialien
 
 Kontrolliere, ob du alle benötigten Materialien auf deinem Tisch hast. Kreuze ab.
 
--[ ] Mobile-CASSY
+-[ ] Mobiles Messwert-Erfassungssystem
 -[ ] pH-Box
 -[ ] Verbindungskabel
--[ ] pH-Elelktrode
+-[ ] pH-Elektrode
 -[ ] Magnetrührer
 -[ ] Magnetrührstab
 -[ ] Stativ
@@ -167,7 +167,7 @@ calc: <script input="number" default="@0">@input</script>
   - Hochgestellt: $ A^{b} $ mit `A^{b}`
   - Tiefgestellt: $ A_{b} $ mit `A_{b}`
 
-> 💡 Du kannst die Formelschreibweise per Copy & Paste in OneNote übernehmen. Die Syntax ist dieselbe.
+> 💡 Du kannst die Formelschreibweise per Copy & Paste in dein Notizbuch übernehmen. Die Syntax ist dieselbe.
 
 <!-- class="notranslate"-->
 ```latex
@@ -240,8 +240,6 @@ Nachdem du weißt, wie du die Stoffmengenkonezntration der Essigsäure bestimmen
 
 > 💡 Du kannst deine Berechnnungen auf der nächsten Folie überprüfen.
 
-> 💡 Zur Erläuterung der Kurve kannst du dir folgendes Video ansehen:
-> !?[Verschiedene Titrationskurven](https://youtu.be/zYD6TNG36_k?feature=shared)
 *********
 
 ## Rechner
