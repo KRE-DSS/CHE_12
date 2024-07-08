@@ -54,7 +54,6 @@ Das kann ich schon
 -[ ] Blabla
 -[ ] Bla
 
-<iframe src="https://apps.zum.de/h5p/33609/embed" width="927" height="717" frameborder="0" allowfullscreen="allowfullscreen" lang="de" title="Sicheres Experimentieren im Fachraum - interakives Buch"></iframe>
 
 
 
