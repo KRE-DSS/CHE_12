@@ -43,6 +43,21 @@ Ein Buch, egal ob klassisches Schulbuch oder interaktives Arbeitsbuch sind **NIC
 - Wenn du Fehler, z. B. in Übungen gemacht hast, kopiere einen Screenshot mit den Fehlern in deine Notizen und kommentiere deine Verbesserung. Daraus lernst du. Fehler machen ist in der Lernphase gut und wichtig - ebenso wie die Auseinandersetzung damit.
 
 # Säure-Base-Theorie
+
+- Kreuze zuerst alle Kompetenzen an, von denen du glaubst, dass du sie schon anwenden kannst.
+- Bearbeite anschließend die Aufgaben und lasse sie auswerten
+- Beurteile deine Selbsteinschätzung und mache dir Notizen, welche Kompoetenzen und Inhalte du wiederholen musst und ggf. wo du dazu Informationen und Übungsmaterial findest
+
+Das kann ich schon 
+==================
+-[ ] Blablabla
+-[ ] Blabla
+-[ ] Bla
+
+<iframe src="https://apps.zum.de/h5p/29608/embed" width="927" height="717" frameborder="0" allowfullscreen="allowfullscreen" lang="de" title="3.2.1 chemische Reaktion oder physikalische Vorgang - interakives Buch"></iframe><script src="https://apps.zum.de/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
 ## Säuren und Basen in Alltag und Technik
 ## Die Entwicklung des Säure-Base-Begriffs
 ## Das Säure-Base-Konzept von Brønstedt
