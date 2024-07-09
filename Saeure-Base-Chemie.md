@@ -46,18 +46,21 @@ Ein Buch, egal ob klassisches Schulbuch oder interaktives Arbeitsbuch sind **NIC
 
 - Kreuze zuerst alle Kompetenzen an, von denen du glaubst, dass du sie schon anwenden kannst.
 - Bearbeite anschließend die Aufgaben und lasse sie auswerten
-- Beurteile deine Selbsteinschätzung und mache dir Notizen, welche Kompoetenzen und Inhalte du wiederholen musst und ggf. wo du dazu Informationen und Übungsmaterial findest
+- Beurteile deine Selbsteinschätzung anhand der Ergebnisse und mache dir Notizen, welche Kompetenzen und Inhalte du wiederholen musst und ggf. wo du dazu Informationen und Übungsmaterial findest
 
-Das kann ich schon 
-==================
--[ ] Blablabla
--[ ] Blabla
--[ ] Bla
+Selbsteinschätzungsbogen: Ich kann... 
+=====================================
+a) [ ] ...den Nachweis saurer, basischer oder neutraler Lösungen beschreiben
+b) [ ] ...Beispiele für saure und basische Lösungen angeben
+c) [ ] ...polare und unpolare Elektronenpaarbindungen unterscheiden
+d) [ ] ...die typischen Teilchen in sauren und basischen Lösungen nennen
+e) [ ] ...Säure-Base-Reaktionen erkennen und erläutern
+f) [ ] ...bei wässrigen Lösungen die Fachausdrucke "sauer", "basisch", "neutral" der pH-Skala zuordnen
+g) [ ] ...das Donator-Akzeptor-Prinzip am Beispiel von Protonenübergängen anwenden
+h) [ ] ...die Bedeutung saurer, basischer und neutraler Lösungen für Lebewesen erörtern
 
 
-<iframe src="https://h5p.org/h5p/embed/6724" width="1091" height="252" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Accordion"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<iframe src="https://apps.zum.de/h5p/33609/embed" width="1535" height="791" frameborder="0" allowfullscreen="allowfullscreen" lang="de" title="Sicheres Experimentieren im Fachraum - interakives Buch"></iframe><script src="https://apps.zum.de/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 ## Säuren und Basen in Alltag und Technik
