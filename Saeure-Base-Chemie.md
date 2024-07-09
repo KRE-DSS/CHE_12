@@ -50,18 +50,33 @@ Ein Buch, egal ob klassisches Schulbuch oder interaktives Arbeitsbuch sind **NIC
 
 Selbsteinschätzungsbogen: Ich kann... 
 =====================================
-a) [ ] ...den Nachweis saurer, basischer oder neutraler Lösungen beschreiben
-b) [ ] ...Beispiele für saure und basische Lösungen angeben
-c) [ ] ...polare und unpolare Elektronenpaarbindungen unterscheiden
-d) [ ] ...die typischen Teilchen in sauren und basischen Lösungen nennen
-e) [ ] ...Säure-Base-Reaktionen erkennen und erläutern
-f) [ ] ...bei wässrigen Lösungen die Fachausdrucke "sauer", "basisch", "neutral" der pH-Skala zuordnen
-g) [ ] ...das Donator-Akzeptor-Prinzip am Beispiel von Protonenübergängen anwenden
-h) [ ] ...die Bedeutung saurer, basischer und neutraler Lösungen für Lebewesen erörtern
 
+- [ ] ...den Nachweis saurer, basischer oder neutraler Lösungen beschreiben (1)
+- [ ] ...Beispiele für saure und basische Lösungen angeben (2)
+- [ ] ...polare und unpolare Elektronenpaarbindungen unterscheiden (3)
+- [ ] ...die typischen Teilchen in sauren und basischen Lösungen nennen (4)
+- [ ] ...Säure-Base-Reaktionen erkennen und erläutern (5)
+- [ ] ...bei wässrigen Lösungen die Fachausdrucke "sauer", "basisch", "neutral" der pH-Srkala zuordnen (6)
+- [ ] ...das Donator-Akzeptor-Prinzip am Beispiel von Protonenübergängen anwenden (6)
+- [ ] ...die Bedeutung saurer, basischer und neutraler Lösungen für Lebewesen erörtern (7)
 
+Diagnoseaufgaben zu den Vorkenntnissen:
+=======================================
 
+[Einstiegsquiz "saure und alkalische Lösungen"](https://apps.zum.de/apps/33102) (1/2/3/6)
 
+Gib die Teilchen an, die in jeder sauren Lösung vorkommen:
+
+- [[ ]] $ Na^{+}-Ionen
+- [[ ]] Chlorid-Ionen
+- [[x]] H_{3}O^{+}-Ionen
+- [[ ]] Oxid-Ionen
+- [[ ]] Hydroxid-Ionen
+- [[ ]] Natrium-Ionen
+- [[ ]] Cl^{-}-Ionen
+- [[x]] Oxonium-Ionen
+- [[ ]] OH^{-}-Ionen
+- [[ ]] O^{2-}-Ionen
 
 ## Säuren und Basen in Alltag und Technik
 ## Die Entwicklung des Säure-Base-Begriffs
