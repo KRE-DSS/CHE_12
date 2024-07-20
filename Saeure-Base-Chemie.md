@@ -74,6 +74,7 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 
 [https://apps.zum.de/apps/3310](https://apps.zum.de/apps/33102) (1/2/3/6)
 
+
 `AUFGABE 2` Multiple- und Single-Choice-Fragen* (3/4/5/7)
 
 *Gib* die Teilchen *an*, die in jeder sauren Lösung vorkommen:
@@ -89,6 +90,7 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [[ ]] $ OH^{-} $
 - [[ ]] $ O^{2-} $
 
+
 *Bestimme*, ob es sich um eine Säure-Base-, Redox- oder Nucleophil-Elektrophil-Reaktion handelt:
 
 - [ [Säure-Base] [RedOx] [Nu-El] ]
@@ -99,6 +101,7 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [     ( )        ( )     (x)   ] $ CH_{3}COOH + C_{2}H_{5}OH \rightleftharpoons CH_{3}COOC_{2}H_{5} + H_{2}O $
 - [     ( )        (x)     ( )   ] $ Cu^{2+} + H_{2} + 2 H_{2}O \rightleftharpoons Cu + 2 H_{3}O^{+} $
 - [     (x)        ( )     ( )   ] $ NaOH + HCl \rightarrow NaCl + H_{2}O $
+
 
 *Gib* die Teilchen *an*, die in jeder basischen Lösung vorkommen:
 
@@ -113,15 +116,17 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [[x]] $ OH^{-} $
 - [[ ]] $ O^{2-} $
 
+
 *Bestimme*, ob die Wasserstoff-Atome polar oder unpolar gebunden sind:
 
-- [ [polar] [unpolar] ] 
-- [   [x]      [ ]    ] $ H-Cl $
-- [   [ ]      [x]    ] $ CH_{4} $
-- [   [x]      [ ]    ] $ H_{2}O $
-- [   [x]      [ ]    ] $ NH_{3} $
-- [   [ ]      [x]    ] $ H-H $
-- [   [ ]      [x]    ] $ GeH_{3} $
+- [ [polar] [unpolar] ]
+- [   (x)      ( )    ] $ H-Cl $
+- [   ( )      (x)    ] $ CH_{4} $
+- [   (x)      ( )    ] $ H_{2}O $
+- [   (x)      ( )    ] $ NH_{3} $
+- [   ( )      (x)    ] $ H-H $
+- [   ( )      (x)    ] $ GeH_{3} $
+
 
 *Erläutere*, ob die polare Bindung eines H-Atoms ausreicht, damit ein Stoff als Säure bezeichnet werden kann.
 
