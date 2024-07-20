@@ -56,27 +56,44 @@ Selbsteinschätzungsbogen: Ich kann...
 - [ ] ...polare und unpolare Elektronenpaarbindungen unterscheiden (3)
 - [ ] ...die typischen Teilchen in sauren und basischen Lösungen nennen (4)
 - [ ] ...Säure-Base-Reaktionen erkennen und erläutern (5)
-- [ ] ...bei wässrigen Lösungen die Fachausdrucke "sauer", "basisch", "neutral" der pH-Srkala zuordnen (6)
+- [ ] ...bei wässrigen Lösungen die Fachausdrucke "sauer", "basisch", "neutral" der pH-Skala zuordnen (6)
 - [ ] ...das Donator-Akzeptor-Prinzip am Beispiel von Protonenübergängen anwenden (6)
 - [ ] ...die Bedeutung saurer, basischer und neutraler Lösungen für Lebewesen erörtern (7)
 
 Diagnoseaufgaben zu den Vorkenntnissen:
 =======================================
 
-[Einstiegsquiz "saure und alkalische Lösungen"](https://apps.zum.de/apps/33102) (1/2/3/6)
+*AUFGABE 1: Einstiegsquiz "saure und alkalische Lösungen"* (1/2/3/6)
+---------
+
+[https://apps.zum.de/apps/3310](https://apps.zum.de/apps/33102) (1/2/3/6)
+
+*AUFGABE 2: Multiple-Choice-Fragen* (4/5)
+---------
 
 Gib die Teilchen an, die in jeder sauren Lösung vorkommen:
 
-- [[ ]] $ Na^{+}-Ionen $
+- [[ ]] $ Na^{+} $
 - [[ ]] Chlorid-Ionen
-- [[x]] H_3O^+-Ionen
+- [[x]] $ H_{3}O^{+} $
 - [[ ]] Oxid-Ionen
 - [[ ]] Hydroxid-Ionen
 - [[ ]] Natrium-Ionen
-- [[ ]] $ Cl^{-} $-Ionen
+- [[ ]] $ Cl^{-} $
 - [[x]] Oxonium-Ionen
-- [[ ]] OH^{-}-Ionen
-- [[ ]] O^{2-}-Ionen
+- [[ ]] $ OH^{-} $
+- [[ ]] $ O^{2-} $
+
+Bestimme ob es sich um eine Säure-Base-, Redox- oder Nucleophil-Elektrophil-Reaktion handelt:
+
+- [ [Säure-Base] [RedOx] [Nu-El] ]
+- [     ( )        (x)     ( )   ] $ 2 Na + Cl_{2} \rightarrow 2 NaCl $
+- [     (x)        ( )     ( )   ] $ HCl + H_{2}O \leftrightharpoons Cl^{-} + H_{3}O^{+} $
+- [     ( )        (x)     ( )   ] $ 2 Na + H_{2}O \rightarrow H_{2} + 2 Na^{+} + 2 Cl^{-} $
+- [     (x)        ( )     ( )   ] $ CH_{3}COOH + H_{2}O \rightarrow CH_{3}COO^{-} + H_{3}O^{+} $
+- [     ( )        ( )     (x)   ] $ CH_{3}COOH + C_{2}H_{5}OH \rightleftharpoons CH_{3}COO-C_{2}H_{5} $
+- [     ( )        (x)     ( )   ] $ Cu^{2+} + H_{2} + 2 H_{2}O \leftrightharpoons Cu + 2 H_{3}O^{+} $
+- [     (x)        ( )     ( )   ] $ NaOH + HCl \rightarrow NaCl + H_{2}O $
 
 ## Säuren und Basen in Alltag und Technik
 ## Die Entwicklung des Säure-Base-Begriffs
