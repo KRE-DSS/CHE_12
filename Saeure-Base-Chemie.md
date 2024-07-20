@@ -105,8 +105,8 @@ Eine saure Lösung ist definiert als eine Lösung von Oxoniumionen ($ H_{3}O^{+}
 - [     ( )        ( )     (x)   ] $ CH_{3}COOH + C_{2}H_{5}OH \rightleftharpoons CH_{3}COOC_{2}H_{5} + H_{2}O $
 - [     ( )        (x)     ( )   ] $ Cu^{2+} + H_{2} + 2 H_{2}O \rightleftharpoons Cu + 2 H_{3}O^{+} $
 - [     (x)        ( )     ( )   ] $ NaOH + HCl \rightarrow NaCl + H_{2}O $
-- [?] 💡 Alle drei Reaktions-Typen funktionieren nach dem Donator-Akzeptor-Prinzip. Aber mit unterschiedlichen Teilchen.
-- [?] 💡 Bei zwei der drei Reaktionstypen werden Elektronen übertragen, bei einem Reaktionstyp Protonen
+- [[?]] 💡 Alle drei Reaktions-Typen funktionieren nach dem Donator-Akzeptor-Prinzip. Aber mit unterschiedlichen Teilchen.
+- [[?]] 💡 Bei zwei der drei Reaktionstypen werden Elektronen übertragen, bei einem Reaktionstyp Protonen
 ***
 
 In allen Fällen gibt es einen Stoff der Teilchen abgibt (`Donator`) und einen Stoff, der Teilchen aufnimmt (`Akzeptor`). Der Unterschied liegt in den übertragenen Teilchen:
@@ -114,6 +114,7 @@ In allen Fällen gibt es einen Stoff der Teilchen abgibt (`Donator`) und einen S
 - Säure-Base-Reaktionen: Protonen ($ H^{+} $)
 - RedOx-Reaktionen: Elektronen ($ e^{-} $)
 - Nucleophil-Elektrophil-Reaktionen: Freie Elektronenpaare zur Ausbildung von Bindungen / Heterolytische Bindungsspaltung zur Ausbildung freier Elektronenpaare
+
 ***
 
 **Gib** die Teilchen **an**, die in jeder basischen Lösung vorkommen:
@@ -128,7 +129,6 @@ In allen Fällen gibt es einen Stoff der Teilchen abgibt (`Donator`) und einen S
 - [[ ]] Oxonium-Ionen
 - [[x]] $ OH^{-} $
 - [[ ]] $ O^{2-} $
-
 ***
 
 Eine basiche Lösung ist definiert als eine Lösung von Hydroxid-Ionen ($ OH^{-} $) in Wasser. Neben diesen Hydroxid-Ionen können noch weitere Ionen gelöst sein, sie sind für die Definition als basische Lösung aber nicht relevant.
@@ -150,8 +150,7 @@ EN(Cl) = 2,8
 - [   (x)      ( )    ] $ NH_{3} $
 - [   ( )      (x)    ] $ H-H $
 - [   ( )      (x)    ] $ GeH_{3} $
-- [?] 💡 Betrachte die Elektronegativitätswerte der Atome
-
+- [[?]] 💡 Betrachte die Elektronegativitätswerte der Atome
 ***
 
 Um zu bestimmen, ob eine Elektronenpaarbindung polar oder unpolar ist, muss man die Differenz der Elektronegativitätswerte der beiden Atome der Elektronenpaarbindung $ \DeltaEN $ bestimmen. Ist diese größer als 0,4, so gilt die Bindung als polar.
@@ -166,7 +165,6 @@ Um zu bestimmen, ob eine Elektronenpaarbindung polar oder unpolar ist, muss man 
 - [( )] Ja, aber nur, wenn das Wasserstoffatom eine höhere Elektronegativität hat als das zweite Bindungsatom.
 - [( )] Nein, weil bei Säure-Base-Reaktionen Elektronen übertragen werden.
 - [( )] Ja, aber nur, wenn das Wasserstoffatom eine niedrigere Elektronegatibvität hat als das zweite Bindungsatom.
-
 ***
 
 Ob ein Stoff eine Säure ist und wie stark diese Säure ist, hängt von vielen verschiedenen Faktoren ab. Durch einfaches Betrachten der Summenformel kann dies nicht festgestellt werden. Du wirst aber im Verlauf dieses Kapitels lernen anhand bestimmter Werte im Tafelwerk einen Stoff als starke oder schwache Säure vorherzusagen. Dasselbe gilt für Basen.
@@ -180,7 +178,7 @@ Ob ein Stoff eine Säure ist und wie stark diese Säure ist, hängt von vielen v
 - [      ( )                (x)         ] $ \htmlStyle{color: red;}{NH_{3}} + H_{2}O \rightleftharpoons NH_{4}^{+} + OH^{-} $
 - [      ( )                (x)         ] $ Na\htmlStyle{color: red;}{OH} + HCl \rightleftharpoons NaCl + H_{2}O $
 - [      (x)                ( )         ] $ \htmlStyle{color: red;}{HNO_{3}} + H_{2}O \rightleftharpoons NO_{3}^{-} + H_{3}O^{+} $
-- [?] Betrachte die Veränderung in den Summenformeln und bei den Ladungen der beteiligten Stoffe.
+- [[?]] Betrachte die Veränderung in den Summenformeln und bei den Ladungen der beteiligten Stoffe.
 ***
 
 Man erkennt eine Protonenabgabe daran, dass das abgebende Teilchen nach der Reaktion ein H-Atom weniger in seiner Summenformel besitzt und seine Ladung um 1 negativer wird.
