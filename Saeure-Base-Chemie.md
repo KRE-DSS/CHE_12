@@ -137,7 +137,13 @@ Eine basiche Lösung ist definiert als eine Lösung von Hydroxid-Ionen ($ OH^{-}
 
 **Bestimme**, ob die Wasserstoff-Atome polar oder unpolar gebunden sind:
 
-EN(H) = 2,2 | EN(C) = 2,5 | EN(N) = 3,0 | EN(Ge) = 2,0 | EN(Cl) = 2,8
+| Element | EN-Wert |
+| :-----: | :-----: |
+| H       | 2,2     | 
+| C       | 2,5     |
+| N       | 3,0     |
+| Ge      | 2,0     |
+| Cl      | 2,8     |
 
 - [ [polar] [unpolar] ]
 - [   (x)      ( )    ] $ H-Cl $
@@ -149,7 +155,7 @@ EN(H) = 2,2 | EN(C) = 2,5 | EN(N) = 3,0 | EN(Ge) = 2,0 | EN(Cl) = 2,8
 - [[?]] 💡 Betrachte die Elektronegativitätswerte der Atome
 ***
 
-Um zu bestimmen, ob eine Elektronenpaarbindung polar oder unpolar ist, muss man die Differenz der Elektronegativitätswerte der beiden Atome der Elektronenpaarbindung $ \Delta EN $ bestimmen. Ist diese größer als 0,4, so gilt die Bindung als polar.
+Um zu bestimmen, ob eine Elektronenpaarbindung polar oder unpolar ist, muss man die Differenz der Elektronegativitätswerte der beiden Atome der Elektronenpaarbindung $ \Delta $$ EN $ bestimmen. Ist diese größer als 0,4, so gilt die Bindung als polar.
 
 ***
 
