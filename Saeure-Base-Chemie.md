@@ -77,7 +77,7 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 
 `AUFGABE 2` Multiple- und Single-Choice-Fragen* (3/4/5/7)
 
-*Gib* die Teilchen *an*, die in jeder sauren Lösung vorkommen:
+**Gib** die Teilchen **an**, die in jeder sauren Lösung vorkommen:
 
 - [[ ]] $ Na^{+} $
 - [[ ]] Chlorid-Ionen
@@ -89,9 +89,13 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [[x]] Oxonium-Ionen
 - [[ ]] $ OH^{-} $
 - [[ ]] $ O^{2-} $
+***
 
+Eine saure Lösung ist definiert als eine Lösung von Oxoniumionen ($ H_{3}O^{+} $) in Wasser. Neben diesen Oxonium-Ionen können noch weitere Ionen gelöst sein, sie sind für die Definition als saure Lösung aber nicht relevant.
 
-*Bestimme*, ob es sich um eine Säure-Base-, Redox- oder Nucleophil-Elektrophil-Reaktion handelt:
+***
+
+**Bestimme**, ob es sich um eine Säure-Base-, Redox- oder Nucleophil-Elektrophil-Reaktion handelt:
 
 - [ [Säure-Base] [RedOx] [Nu-El] ]
 - [     ( )        (x)     ( )   ] $ 2 Na + Cl_{2} \rightarrow 2 NaCl $
@@ -101,9 +105,18 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [     ( )        ( )     (x)   ] $ CH_{3}COOH + C_{2}H_{5}OH \rightleftharpoons CH_{3}COOC_{2}H_{5} + H_{2}O $
 - [     ( )        (x)     ( )   ] $ Cu^{2+} + H_{2} + 2 H_{2}O \rightleftharpoons Cu + 2 H_{3}O^{+} $
 - [     (x)        ( )     ( )   ] $ NaOH + HCl \rightarrow NaCl + H_{2}O $
+- [?] 💡 Alle drei Reaktions-Typen funktionieren nach dem Donator-Akzeptor-Prinzip. Aber mit unterschiedlichen Teilchen.
+- [?] 💡 Bei zwei der drei Reaktionstypen werden Elektronen übertragen, bei einem Reaktionstyp Protonen
+***
 
+In allen Fällen gibt es einen Stoff der Teilchen abgibt (`Donator`) und einen Stoff, der Teilchen aufnimmt (`Akzeptor`). Der Unterschied liegt in den übertragenen Teilchen:
 
-*Gib* die Teilchen *an*, die in jeder basischen Lösung vorkommen:
+- Säure-Base-Reaktionen: Protonen ($ H^{+} $)
+- RedOx-Reaktionen: Elektronen ($ e^{-} $)
+- Nucleophil-Elektrophil-Reaktionen: Freie Elektronenpaare zur Ausbildung von Bindungen / Heterolytische Bindungsspaltung zur Ausbildung freier Elektronenpaare
+***
+
+**Gib** die Teilchen **an**, die in jeder basischen Lösung vorkommen:
 
 - [[ ]] $ Na^{+} $
 - [[ ]] Chlorid-Ionen
@@ -116,8 +129,19 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [[x]] $ OH^{-} $
 - [[ ]] $ O^{2-} $
 
+***
 
-*Bestimme*, ob die Wasserstoff-Atome polar oder unpolar gebunden sind:
+Eine basiche Lösung ist definiert als eine Lösung von Hydroxid-Ionen ($ OH^{-} $) in Wasser. Neben diesen Hydroxid-Ionen können noch weitere Ionen gelöst sein, sie sind für die Definition als basische Lösung aber nicht relevant.
+
+***
+
+**Bestimme**, ob die Wasserstoff-Atome polar oder unpolar gebunden sind:
+
+EN(H) = 2,2
+EN(C) = 2,5
+EN(N) = 3,0
+EN(Ge) = 2,0
+EN(Cl) = 2,8
 
 - [ [polar] [unpolar] ]
 - [   (x)      ( )    ] $ H-Cl $
@@ -126,9 +150,15 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [   (x)      ( )    ] $ NH_{3} $
 - [   ( )      (x)    ] $ H-H $
 - [   ( )      (x)    ] $ GeH_{3} $
+- [?] 💡 Betrachte die Elektronegativitätswerte der Atome
 
+***
 
-*Erläutere*, ob die polare Bindung eines H-Atoms ausreicht, damit ein Stoff als Säure bezeichnet werden kann.
+Um zu bestimmen, ob eine Elektronenpaarbindung polar oder unpolar ist, muss man die Differenz der Elektronegativitätswerte der beiden Atome der Elektronenpaarbindung $ \DeltaEN $ bestimmen. Ist diese größer als 0,4, so gilt die Bindung als polar.
+
+***
+
+**Erläutere**, ob die polare Bindung eines H-Atoms ausreicht, damit ein Stoff als Säure bezeichnet werden kann.
 
 - [( )] Ja, weil Säuren Protonen ($ H^{+} $) abspalten. Dies ist besonders einfach, wenn die Bindung polar ist.
 - [(x)] Nein, weil weitere Aspekte über die Fähigkeit zur Protonenabspaltung entscheiden, z. B. die Stabilität der Produkte.
@@ -137,13 +167,27 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [( )] Nein, weil bei Säure-Base-Reaktionen Elektronen übertragen werden.
 - [( )] Ja, aber nur, wenn das Wasserstoffatom eine niedrigere Elektronegatibvität hat als das zweite Bindungsatom.
 
-*Gib an*, ob das markierte Teilchen Protonen abgibt oder Protonen aufnimmt
+***
+
+Ob ein Stoff eine Säure ist und wie stark diese Säure ist, hängt von vielen verschiedenen Faktoren ab. Durch einfaches Betrachten der Summenformel kann dies nicht festgestellt werden. Du wirst aber im Verlauf dieses Kapitels lernen anhand bestimmter Werte im Tafelwerk einen Stoff als starke oder schwache Säure vorherzusagen. Dasselbe gilt für Basen.
+
+***
+
+**Gib an**, ob das markierte Teilchen Protonen abgibt oder Protonen aufnimmt
 
 - [ [Protonenabgabe] [Protonenaufnahme] ]
 - [      (x)                ( )         ] $ \htmlStyle{color: red;}{HBr} + H_{2}O \rightleftharpoons Br^{-} + H_{3}O^{+} $
 - [      ( )                (x)         ] $ \htmlStyle{color: red;}{NH_{3}} + H_{2}O \rightleftharpoons NH_{4}^{+} + OH^{-} $
 - [      ( )                (x)         ] $ Na\htmlStyle{color: red;}{OH} + HCl \rightleftharpoons NaCl + H_{2}O $
 - [      (x)                ( )         ] $ \htmlStyle{color: red;}{HNO_{3}} + H_{2}O \rightleftharpoons NO_{3}^{-} + H_{3}O^{+} $
+- [?] Betrachte die Veränderung in den Summenformeln und bei den Ladungen der beteiligten Stoffe.
+***
+
+Man erkennt eine Protonenabgabe daran, dass das abgebende Teilchen nach der Reaktion ein H-Atom weniger in seiner Summenformel besitzt und seine Ladung um 1 negativer wird.
+
+Eine Protonenaufnahme erkennt man daran, dass das aufnehmende Teilchen nach der Reaktion ein H-Atom mehr in seiner Summenformel besitzt und seine Ladung um 1 positiver wird.
+
+***
 
 # Säure-Base-Theorie
 ## Säuren und Basen in Alltag und Technik
