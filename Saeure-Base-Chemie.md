@@ -142,7 +142,7 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 - [ [Protonenabgabe] [Protonenaufnahme] ]
 - [      (x)                ( )         ] $ \htmlStyle{color: red;}{HBr} + H_{2}O \rightleftharpoons Br^{-} + H_{3}O^{+} $
 - [      ( )                (x)         ] $ \htmlStyle{color: red;}{NH_{3}} + H_{2}O \rightleftharpoons NH_{4}^{+} + OH^{-} $
-- [      ( )                (x)         ] $ \htmlStyle{color: red;}{NaOH} + HCl \rightleftharpoons NaCl + H_{2}O $
+- [      ( )                (x)         ] $ Na\htmlStyle{color: red;}{OH} + HCl \rightleftharpoons NaCl + H_{2}O $
 - [      (x)                ( )         ] $ \htmlStyle{color: red;}{HNO_{3}} + H_{2}O \rightleftharpoons NO_{3}^{-} + H_{3}O^{+} $
 
 # Säure-Base-Theorie
