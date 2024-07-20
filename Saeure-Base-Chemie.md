@@ -70,12 +70,12 @@ Selbsteinschätzungsbogen: Ich kann...
 Diagnoseaufgaben zu den Vorkenntnissen:
 =======================================
 
-`AUFGABE 1` Einstiegsquiz "saure und alkalische Lösungen"* (1/2/3/6)
+`AUFGABE 1` Einstiegsquiz "saure und alkalische Lösungen" (1/2/3/6)
 
 [https://apps.zum.de/apps/3310](https://apps.zum.de/apps/33102) (1/2/3/6)
 
 
-`AUFGABE 2` Multiple- und Single-Choice-Fragen* (3/4/5/7)
+`AUFGABE 2` Multiple- und Single-Choice-Fragen (3/4/5/7)
 
 **Gib** die Teilchen **an**, die in jeder sauren Lösung vorkommen:
 
@@ -180,12 +180,23 @@ Ob ein Stoff eine Säure ist und wie stark diese Säure ist, hängt von vielen v
 - [      ( )                (x)         ] $ \htmlStyle{color: red;}{NH_{3}} + H_{2}O \rightleftharpoons NH_{4}^{+} + OH^{-} $
 - [      ( )                (x)         ] $ Na\htmlStyle{color: red;}{OH} + HCl \rightleftharpoons NaCl + H_{2}O $
 - [      (x)                ( )         ] $ \htmlStyle{color: red;}{HNO_{3}} + H_{2}O \rightleftharpoons NO_{3}^{-} + H_{3}O^{+} $
-- [[?]] Betrachte die Veränderung in den Summenformeln und bei den Ladungen der beteiligten Stoffe.
+- [[?]] 💡 Betrachte die Veränderung in den Summenformeln und bei den Ladungen der beteiligten Stoffe.
 ***
 
 Man erkennt eine Protonenabgabe daran, dass das abgebende Teilchen nach der Reaktion ein H-Atom weniger in seiner Summenformel besitzt und seine Ladung um 1 negativer wird.
 
 Eine Protonenaufnahme erkennt man daran, dass das aufnehmende Teilchen nach der Reaktion ein H-Atom mehr in seiner Summenformel besitzt und seine Ladung um 1 positiver wird.
+
+***
+
+`Aufgabe 3` Fachtexte verfassen (8)
+
+**Erläutere** anhand eines Fachtextes, welche Bedeutung die Säure-Base-Chemie bei Experimenten mit Enzymen hat. Beziehe dein Vorwissen aus dem Kapitel "Naturstoffe" bzw. aus der Biologiunterricht der Oberstufe mit ein.
+
+[[___ ___]]
+***
+
+Bei Enzymen handelt es sich um Proteine, also um aus verknüpften Aminosäuren aufgebaute Makromoleküle. Die dreidimensionale Struktur dieser Proteine bestimmt ihre spezifische Wirkung als Biokatalysatoren. Die Aktivität der Enzyme ist pH-abhängig mit einem bestimmten pH-Optimum. Durch Zugabe von saurer oder basischer Lösung, entfernt sich der pH-Wert vom Optimalwert. Der Ladungszustand der sauren und basischen Reste der Aminosäure verändert sich durch die Reaktion mit Oxonium- bzw. Hydroxid-Ionen. Es kommt zu einer Veränderung der dreidimensionalen Struktur (Tertiärstruktur), was als Denaturierung bezeichnet wird.
 
 ***
 
