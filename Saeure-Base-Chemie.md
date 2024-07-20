@@ -49,6 +49,8 @@ Hier geht es zuerst darum für dich selbst zu überprüfen, welche Kompetenzen d
 * Du erhältst einen guten Überblick darüber, was du schon bzw. noch kannst und bist daher in der Lage, deinen Lernprozess besser zu planen. So musst du nicht unnötig Dinge mehrfach lernen und erfährst auf welche Inhalte und Kompetenzen du den Fokus legen musst.
 * Du kannst deine Lehrkraft gezielter nach Informationen bzw. Hilfen fragen
 
+Gehe folgendermaßen vor:
+
 - Kreuze zuerst alle Kompetenzen an, von denen du glaubst, dass du sie schon anwenden kannst.
 - Bearbeite anschließend die Aufgaben und lasse sie auswerten
 - Beurteile deine Selbsteinschätzung anhand der Ergebnisse und mache dir Notizen, welche Kompetenzen und Inhalte du wiederholen musst und ggf. wo du dazu Informationen und Übungsmaterial findest
@@ -62,20 +64,19 @@ Selbsteinschätzungsbogen: Ich kann...
 - [ ] ...die typischen Teilchen in sauren und basischen Lösungen nennen (4)
 - [ ] ...Säure-Base-Reaktionen erkennen und erläutern (5)
 - [ ] ...bei wässrigen Lösungen die Fachausdrucke "sauer", "basisch", "neutral" der pH-Skala zuordnen (6)
-- [ ] ...das Donator-Akzeptor-Prinzip am Beispiel von Protonenübergängen anwenden (6)
-- [ ] ...die Bedeutung saurer, basischer und neutraler Lösungen für Lebewesen erörtern (7)
+- [ ] ...das Donator-Akzeptor-Prinzip am Beispiel von Protonenübergängen anwenden (7)
+- [ ] ...die Bedeutung saurer, basischer und neutraler Lösungen für Lebewesen erörtern (8)
 
 Diagnoseaufgaben zu den Vorkenntnissen:
 =======================================
 
 `AUFGABE 1` Einstiegsquiz "saure und alkalische Lösungen"* (1/2/3/6)
 
-
 [https://apps.zum.de/apps/3310](https://apps.zum.de/apps/33102) (1/2/3/6)
 
-`AUFGABE 2` Multiple-Choice-Fragen* (4/5)
+`AUFGABE 2` Multiple- und Single-Choice-Fragen* (3/4/5/7)
 
-Gib die Teilchen an, die in jeder sauren Lösung vorkommen:
+*Gib* die Teilchen *an*, die in jeder sauren Lösung vorkommen:
 
 - [[ ]] $ Na^{+} $
 - [[ ]] Chlorid-Ionen
@@ -88,16 +89,53 @@ Gib die Teilchen an, die in jeder sauren Lösung vorkommen:
 - [[ ]] $ OH^{-} $
 - [[ ]] $ O^{2-} $
 
-Bestimme ob es sich um eine Säure-Base-, Redox- oder Nucleophil-Elektrophil-Reaktion handelt:
+*Bestimme*, ob es sich um eine Säure-Base-, Redox- oder Nucleophil-Elektrophil-Reaktion handelt:
 
 - [ [Säure-Base] [RedOx] [Nu-El] ]
 - [     ( )        (x)     ( )   ] $ 2 Na + Cl_{2} \rightarrow 2 NaCl $
-- [     (x)        ( )     ( )   ] $ HCl + H_{2}O \leftrightharpoons Cl^{-} + H_{3}O^{+} $
+- [     (x)        ( )     ( )   ] $ HCl + H_{2}O \rightleftharpoons Cl^{-} + H_{3}O^{+} $
 - [     ( )        (x)     ( )   ] $ 2 Na + H_{2}O \rightarrow H_{2} + 2 Na^{+} + 2 Cl^{-} $
 - [     (x)        ( )     ( )   ] $ CH_{3}COOH + H_{2}O \rightarrow CH_{3}COO^{-} + H_{3}O^{+} $
 - [     ( )        ( )     (x)   ] $ CH_{3}COOH + C_{2}H_{5}OH \rightleftharpoons CH_{3}COOC_{2}H_{5} + H_{2}O $
-- [     ( )        (x)     ( )   ] $ Cu^{2+} + H_{2} + 2 H_{2}O \leftrightharpoons Cu + 2 H_{3}O^{+} $
+- [     ( )        (x)     ( )   ] $ Cu^{2+} + H_{2} + 2 H_{2}O \rightleftharpoons Cu + 2 H_{3}O^{+} $
 - [     (x)        ( )     ( )   ] $ NaOH + HCl \rightarrow NaCl + H_{2}O $
+
+*Gib* die Teilchen *an*, die in jeder basischen Lösung vorkommen:
+
+- [[ ]] $ Na^{+} $
+- [[ ]] Chlorid-Ionen
+- [[ ]] $ H_{3}O^{+} $
+- [[ ]] Oxid-Ionen
+- [[x]] Hydroxid-Ionen
+- [[ ]] Natrium-Ionen
+- [[ ]] $ Cl^{-} $
+- [[ ]] Oxonium-Ionen
+- [[x]] $ OH^{-} $
+- [[ ]] $ O^{2-} $
+
+*Bestimme*, ob die Wasserstoff-Atome polar oder unpolar gebunden sind:
+
+- [ [polar] [unpolar] ] 
+- [   [x]      [ ]    ] $ H-Cl $
+- [   [ ]      [x]    ] $ CH_{4} $
+- [   [x]      [ ]    ] $ H_{2}O $
+- [   [x]      [ ]    ] $ NH_{3} $
+- [   [ ]      [x]    ] $ H-H $
+- [   [ ]      [x]    ] $ GeH_{3} $
+
+*Erläutere*, ob die polare Bindung eines H-Atoms ausreicht, damit ein Stoff als Säure bezeichnet werden kann.
+
+- [( )] Ja, weil Säuren Protonen ($ H^{+} $) abspalten. Dies ist besonders einfach, wenn die Bindung polar ist.
+- [(x)] Nein, weil weitere Aspekte über die Fähigkeit zur Protonenabspaltung entscheiden, z. B. die Stabilität der Produkte.
+- [( )] Nein, weil nur ein pH-Wert kleiner 7 darüber entscheidet, ob ein Stoff eine Säure ist.
+- [( )] Ja, aber nur, wenn das Wasserstoffatom eine höhere Elektronegativität hat als das zweite Bindungsatom.
+- [( )] Nein, weil bei Säure-Base-Reaktionen Elektronen übertragen werden.
+- [( )] Ja, aber nur, wenn das Wasserstoffatom eine niedrigere Elektronegatibvität hat als das zweite Bindungsatom.
+
+*Gib an*, ob das markierte Teilchen Protonen abgibt oder Protonen aufnimmt
+
+- [ [Protonenabgabe] [Protonenaufnahme] ]
+- [      (x)                ( )         ] $ \htmlStyle{color: red;}{HBr} + H_{2}O \rightleftharpoons Br^{-} + H_{3}O^{+} $
 
 # Säure-Base-Theorie
 ## Säuren und Basen in Alltag und Technik
