@@ -67,13 +67,13 @@ Diagnoseaufgaben zu den Vorkenntnissen:
 
 Gib die Teilchen an, die in jeder sauren Lösung vorkommen:
 
-- [[ ]] $ Na^{+}-Ionen
+- [[ ]] $ Na^{+}-Ionen $
 - [[ ]] Chlorid-Ionen
-- [[x]] H_{3}O^{+}-Ionen
+- [[x]] H_3O^+-Ionen
 - [[ ]] Oxid-Ionen
 - [[ ]] Hydroxid-Ionen
 - [[ ]] Natrium-Ionen
-- [[ ]] Cl^{-}-Ionen
+- [[ ]] $ Cl^{-} $-Ionen
 - [[x]] Oxonium-Ionen
 - [[ ]] OH^{-}-Ionen
 - [[ ]] O^{2-}-Ionen
