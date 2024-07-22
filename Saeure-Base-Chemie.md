@@ -206,6 +206,12 @@ Bei Enzymen handelt es sich um Proteine, also um aus verknüpften Aminosäuren a
 ***
 
 # Säure-Base-Theorie
+
+Im ersten Teilkapitel "Säure-Base-Theorie" lernst du, was eine Säure und eine Base ausmacht. Wenn du den Fitnesstest am Anfang dieses interaktiven Buchs schon durchgearbeitet hast, solltest du eine grundlegende Vorstellung von Säuren und Basen sowie sauren und basischen Lösungen haben. 
+
+Im Chemieunterricht der Oberstufe sollst du nun dein Verständnis der Grundlagen der Säure-Base-Chemie erweitern. Dazu beschäftigst du dich zunächst damit, wie die Begriffe "Säure" und "Base" eigentlich entstanden sind und wie sie sich entwickelt haben. Außderdem wirst du dich mit der Modellierung chemischer Sachverhalte beschäftigen, also der Tatsache, dass ein Modell nur einen Teil der Wirklichkeit abbilden kann. Anhand des Säure-Base-Begriffs lässt sich die Abfolge, das aufeinander aufbauen und das Nebenher verschiedener wissenschaftlicher Modelle gut nachvollziehen. Zum Schluss sollst du in der Lage sein, das für die Oberstufenchemie wichtigste Säure-Base-Konzept ausführlich beschreiben und erklären zu können: Das Säure-Base-Konzept von Brønstedt.
+
+
 ## Säuren und Basen in Alltag und Technik
 ## Die Entwicklung des Säure-Base-Begriffs
 ## Das Säure-Base-Konzept von Brønstedt
