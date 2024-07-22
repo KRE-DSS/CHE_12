@@ -195,10 +195,10 @@ Eine Protonenaufnahme erkennt man daran, dass das aufnehmende Teilchen nach der 
 
 [[___ ___ ___]]
 
-Wenn du die Lösung sehen willst, Tippe das Wort "Lösung" in das Textfeld und clicke auf `Check`.
+Wenn du die Lösung sehen willst, Tippe das Wort "Lösung" in das Textfeld und clicke auf `Prüfen`.
 
+<!-- data-solution-button="off" -->
 [[Lösung]]
-<!-- data-solution-button="off"-->
 ***
 
 Bei Enzymen handelt es sich um Proteine, also um aus verknüpften Aminosäuren aufgebaute Makromoleküle. Die dreidimensionale Struktur dieser Proteine bestimmt ihre spezifische Wirkung als Biokatalysatoren. Die Aktivität der Enzyme ist pH-abhängig mit einem bestimmten pH-Optimum. Durch Zugabe von saurer oder basischer Lösung, entfernt sich der pH-Wert vom Optimalwert. Der Ladungszustand der sauren und basischen Reste der Aminosäure verändert sich durch die Reaktion mit Oxonium- bzw. Hydroxid-Ionen. Es kommt zu einer Veränderung der dreidimensionalen Struktur (Tertiärstruktur), was als Denaturierung bezeichnet wird.
