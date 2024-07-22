@@ -193,7 +193,12 @@ Eine Protonenaufnahme erkennt man daran, dass das aufnehmende Teilchen nach der 
 
 **Erläutere** anhand eines Fachtextes, welche Bedeutung die Säure-Base-Chemie bei Experimenten mit Enzymen hat. Beziehe dein Vorwissen aus dem Kapitel "Naturstoffe" bzw. aus der Biologiunterricht der Oberstufe mit ein.
 
-[[___ ___]]
+[[___ ___ ___]]
+
+Wenn du die Lösung sehen willst, Tippe das Wort "Lösung" in das Textfeld und clicke auf `Check`.
+
+[[Lösung]]
+<!-- data-solution-button="off"-->
 ***
 
 Bei Enzymen handelt es sich um Proteine, also um aus verknüpften Aminosäuren aufgebaute Makromoleküle. Die dreidimensionale Struktur dieser Proteine bestimmt ihre spezifische Wirkung als Biokatalysatoren. Die Aktivität der Enzyme ist pH-abhängig mit einem bestimmten pH-Optimum. Durch Zugabe von saurer oder basischer Lösung, entfernt sich der pH-Wert vom Optimalwert. Der Ladungszustand der sauren und basischen Reste der Aminosäure verändert sich durch die Reaktion mit Oxonium- bzw. Hydroxid-Ionen. Es kommt zu einer Veränderung der dreidimensionalen Struktur (Tertiärstruktur), was als Denaturierung bezeichnet wird.
