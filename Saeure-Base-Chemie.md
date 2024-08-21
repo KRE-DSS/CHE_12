@@ -29,6 +29,8 @@ This work is licensed under a
 
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+[preview-lia](https://github.com/KRE-DSS/CHE_12/blob/main/Saeure-Base-Chemie.md)
+
 **Herzlich Willkommen**
 
 Dieses "Buch" soll für dich einen roten Faden bilden, an dem du dich durch alle Teilbereiche der Säure-Base-Chemie entlanghangeln kannst. Es eignet sich als Arbeitsbuch während des Unterrichts, z. B. in Phasen der Einzel-, Partner- oder Gruppenarbeit. Du kannst es aber auch verwenden um dir Inhalte selbstständig zu erarbeiten, z. B. in EVA-Stunden oder wenn du mal krank warst oder vom Unterricht befreit warst.
