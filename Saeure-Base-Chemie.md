@@ -29,7 +29,7 @@ This work is licensed under a
 
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-[preview-lia](https://github.com/KRE-DSS/CHE_12/blob/main/Saeure-Base-Chemie.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://raw.githubusercontent.com/KRE-DSS/CHE_12/main/Saeure-Base-Chemie.md)
 
 **Herzlich Willkommen**
 
